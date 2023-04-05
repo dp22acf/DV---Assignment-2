@@ -25,7 +25,7 @@ def read_file(file_name):
 
 def clean_df(df):
     """
-    Function to be cleaned and index convertor.
+    Function to be cleaned and index convertor..
     """
 
     # Cleaning the dataframe
